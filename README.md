@@ -26,4 +26,4 @@ This project analyzes IPL cricket data using Python (Pandas & NumPy).
 
 ## 🚀 Project Link
 
-([text](https://github.com/gtshivam1/IPL-Data-Analysis))
+([IPL Data Analysis](https://github.com/gtshivam1/IPL-Data-Analysis))
